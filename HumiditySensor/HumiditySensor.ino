@@ -28,7 +28,7 @@ void setup() {
 void loop() {
   //Start of Program
 
-  DHT.read11(dht_apin); //function to read the values from the pin A0
+  // DHT.read11(dht_apin); //function to read the values from the pin A0
 
   //Serial.print("Current humidity = ");
   //Serial.print(DHT.humidity);
